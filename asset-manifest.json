@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.js": "/AlKredito/static/js/main.9d79b43a.chunk.js",
+    "main.js.map": "/AlKredito/static/js/main.9d79b43a.chunk.js.map",
+    "runtime-main.js": "/AlKredito/static/js/runtime-main.cab6b0b9.js",
+    "runtime-main.js.map": "/AlKredito/static/js/runtime-main.cab6b0b9.js.map",
+    "static/js/2.c82263a1.chunk.js": "/AlKredito/static/js/2.c82263a1.chunk.js",
+    "static/js/2.c82263a1.chunk.js.map": "/AlKredito/static/js/2.c82263a1.chunk.js.map",
+    "index.html": "/AlKredito/index.html",
+    "static/js/2.c82263a1.chunk.js.LICENSE.txt": "/AlKredito/static/js/2.c82263a1.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cab6b0b9.js",
+    "static/js/2.c82263a1.chunk.js",
+    "static/js/main.9d79b43a.chunk.js"
+  ]
+}
